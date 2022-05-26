@@ -14,5 +14,8 @@
   "main": "dist/main.js",
   "repository": "https://github.com/TenViki/discord-dnd-wiki-bot",
   "author": "TenViki <viktorkomarek28@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
 }
